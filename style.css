@@ -1,0 +1,92 @@
+a{
+    font-family: bold;
+    float: right;
+    text-decoration:none;
+    font-size: 25px;
+    color: white;
+    background-color: gray;
+    
+}
+a:hover{
+    font-family: bold;
+    float: right;
+    text-decoration:none;
+    font-size: 25px;
+    color: blue;
+    background-color: gray;
+    border-radius: 10px;
+    
+}
+.aa{ 
+    top:90px;
+    color:green;
+    margin-left:140px;
+    position: relative;
+    font-size: 40px;
+    
+}
+h2{
+    color:rgb(91, 14, 224);
+
+}
+th{
+    font-weight: bolder;
+    font-family: arial;
+    color: black;
+}
+table{ 
+    text-align: center;
+}
+div{
+    /* border: 1px solid black; */
+    width: 650px;
+    height: 400px;
+    left: 650px;
+    position: relative;
+    bottom: 690px;
+}
+.a1{
+    /* border: 1px solid black; */
+    width: 450px;
+    height: 300px;
+    left:650px
+}
+.a2{
+    text-align: center;
+    font-size: 22px;
+    border:1px solid black;
+    width:130px;
+    height:60px;
+    color : white ;
+    left:20px;
+    position: relative;
+    background-color: gray;
+    border-radius: 20%;
+    margin-top: 40px;
+}
+.a3{
+    text-align: center;
+    font-size: 22px;
+    border:1px solid black;
+    width:130px;
+    height: 60px;
+    color : white;
+    left:250px;
+    position: relative;
+    background-color: gray;
+    bottom: 750px;
+        border-radius: 20%;
+}
+.a4{
+    text-align: center;
+    font-size: 22px;
+    border:1px solid black;
+    width:130px;
+    height: 60px;
+    color:white;
+    left:500px;
+    position: relative;
+    background-color: gray;
+    bottom: 809px;
+    border-radius: 20%;
+}
